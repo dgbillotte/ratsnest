@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 stuff
+=======
+You don't have access to this file. :P
+
+I have all the access to this file
+
+Nice try Jenna
+>>>>>>> 992ca6c2b044103a3134662a907f69bce8fbb0c0
